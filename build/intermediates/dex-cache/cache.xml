@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\okio-1.12.0_f5698a6ab0427865d6379a62007eef711ece7a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_edcc8587fba0482338201966cf06ea185a715625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_2f404c9aff47763def62970fdd730a92f61bac0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\libs\gson-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\gson-2.1_d418004601d039d322b29cbbee189cd3ef983493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\okhttp-3.7.0_eba63f285eec1d11e269615e40eda372c35f2501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_f95ac874da2be8d6a02b7c6237bd0f410c064658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_278cbf4f153a5bd788051020d25f64ba2eddd7a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_82cc56bab79279cf3ff292aec28af9d0ad7a4cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_14644345fec3817e7694b83de520b8ae55f7c0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba637ea8ae7b39f7ac8957416b9adab379bd0cc5">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5ede2444b56b2415ef3fb10d8b253ebc2f6792b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_887405a2e6e91544caa148f82726d3a281ac4481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffb9e5f0315ca1c0c1421024bd2379ba30d1142e">
+        <dex dex="C:\Users\liuyong\AndroidStudioProjects\ImgApplication\app\build\intermediates\pre-dexed\debug\instant-run_79283e5ff2626c4b4407e35e81bf275ca91b4e0b.jar" />
+    </item>
+
+</items>
